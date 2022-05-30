@@ -6,6 +6,8 @@
     }
   ],
   "accept": {
-    "status": "API request has been accepted!"
+    "data": "This is ADP service API for development.",
+    "status": 200,
+    "detail": "API request has been processed!"
   }
 }
